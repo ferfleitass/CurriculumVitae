@@ -1,6 +1,4 @@
-/* styles.css */
 
-/* Reset de estilos predeterminados */
 * {
     margin: 0;
     padding: 0;
@@ -92,7 +90,7 @@ footer a:hover {
     text-decoration: underline;
 }
 
-/* Estilos para listas */
+
 ul {
     margin: 10px 0;
 }
@@ -101,13 +99,13 @@ li {
     margin: 5px 0;
 }
 
-/* Estilos de separación */
+
 hr {
     margin: 20px 0;
     border: 1px solid #2980b9;
 }
 
-/* Resaltar secciones */
+
 .section-title {
     background: #2980b9;
     color: white;
